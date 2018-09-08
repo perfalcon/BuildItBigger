@@ -4,7 +4,7 @@ package com.falcon.balav.lib;
 import java.util.ArrayList;
 import java.util.Random;
 
-import sun.rmi.runtime.Log;
+
 
 public class Jokes {
 //http://www.columbia.edu/itc/mealac/pritchett/00urduhindilinks/txt_akbar_birbal.html

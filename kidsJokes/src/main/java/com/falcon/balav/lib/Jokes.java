@@ -32,7 +32,7 @@ public static final String TAG = Jokes.class.getSimpleName ();
 
     public String tellAJoke(){
         Random rand = new Random ();
-        int x = rand.nextInt (5);
+        int x = rand.nextInt (alJokes.size ());
        System.out.println ("x -->"+x);
         return alJokes.get (x);
     }
